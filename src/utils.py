@@ -8,7 +8,7 @@ from pathlib import Path
 def get_project_root() -> Path:
   return Path(__file__).parent.parent
 
-def update_checksum(key, code):
+def update_checksum(key, code) -> None:
   file_path = os.path.join(get_project_root(), 'data-checksum.json')
   timestamp = round(datetime.now().timestamp())
   
