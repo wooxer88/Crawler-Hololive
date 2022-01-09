@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "label": "ALL",
+      "url": "https://hololive.hololivepro.com/talents"
+    },
+    {
+      "label": "ホロライブ",
+      "url": "https://hololive.hololivepro.com/talents?gp=hololive"
+    },
+    {
+      "label": "0期生",
+      "url": "https://hololive.hololivepro.com/talents?gp=gen-0"
+    },
+    {
+      "label": "1期生",
+      "url": "https://hololive.hololivepro.com/talents?gp=1stgen"
+    },
+    {
+      "label": "2期生",
+      "url": "https://hololive.hololivepro.com/talents?gp=gen-2"
+    },
+    {
+      "label": "ホロライブゲーマーズ",
+      "url": "https://hololive.hololivepro.com/talents?gp=gamers"
+    },
+    {
+      "label": "3期生",
+      "url": "https://hololive.hololivepro.com/talents?gp=gen-3"
+    },
+    {
+      "label": "4期生",
+      "url": "https://hololive.hololivepro.com/talents?gp=gen-4"
+    },
+    {
+      "label": "5期生",
+      "url": "https://hololive.hololivepro.com/talents?gp=gen-5"
+    },
+    {
+      "label": "秘密結社holoX",
+      "url": "https://hololive.hololivepro.com/talents?gp=holox"
+    },
+    {
+      "label": "イノナカミュージック",
+      "url": "https://hololive.hololivepro.com/talents?gp=innk-music"
+    },
+    {
+      "label": "ホロライブEnglish",
+      "url": "https://hololive.hololivepro.com/talents?gp=english"
+    },
+    {
+      "label": "Myth",
+      "url": "https://hololive.hololivepro.com/talents?gp=myth"
+    },
+    {
+      "label": "Project: HOPE",
+      "url": "https://hololive.hololivepro.com/talents?gp=project-hope"
+    },
+    {
+      "label": "Council",
+      "url": "https://hololive.hololivepro.com/talents?gp=council"
+    },
+    {
+      "label": "ホロライブインドネシア",
+      "url": "https://hololive.hololivepro.com/talents?gp=indonesia"
+    },
+    {
+      "label": "卒業生",
+      "url": "https://hololive.hololivepro.com/talents?gp=og"
+    }
+  ]
+}
