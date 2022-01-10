@@ -14,11 +14,11 @@ id_label_data = ['ホロライブインドネシア']
 
 def main():
   category_url = 'https://raw.githubusercontent.com/wooxer88/Crawler-Hololive/main/data/category_min.json'
-  # detail_url = 'https://raw.githubusercontent.com/wooxer88/Crawler-Hololive/main/data/member_detail_min.json'
+  detail_url = 'https://raw.githubusercontent.com/wooxer88/Crawler-Hololive/main/data/member_detail_min.json'
   category_res = requests.get(category_url)
   category_json = json.loads(category_res.text)['data']
-  # detail_res = requests.get(detail_url)
-  # detail_json = json.loads(detail_res.text)['data']
+  detail_res = requests.get(detail_url)
+  detail_json = json.loads(detail_res.text)['data']
   file_path = os.path.join(get_project_root(), 'data', 'member.json')
   file_min_path = os.path.join(get_project_root(), 'data', 'member_min.json')
   member_data = {}
@@ -35,17 +35,18 @@ def main():
     if item['name'] in overseas_data:
       item['name'] = overseas_data[item['name']]
 
-  # for item in member_data:
-  #   for item2 in member_data[item]:
-  #     url = item2['url']
-  #     detail = detail_json[item2['name']]
+  for item in member_data:
+    for item2 in member_data[item]:
+      if item2['name'] in detail_json:
+        url = item2['url']
+        detail = detail_json[item2['name']]
 
-  #     for item3 in detail: item2[item3] = detail[item3]
+        for item3 in detail: item2[item3] = detail[item3]
 
-  #     item2['avatar']['hololive'] = item2['img']
-  #     item2['url']['hololive'] = url
+        item2['avatar']['hololive'] = item2['img']
+        item2['url']['hololive'] = url
 
-  #     del item2['img']
+        del item2['img']
 
   check_code = hashlib.sha256(json.dumps(member_data).encode('utf-8')).hexdigest()
 
