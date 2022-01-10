@@ -1,8 +1,9 @@
 .DS_Store
 .thumbs.db
 
-venv
 __pycache__
+venv
+webdriver
 
 # Editor directories and files
 .idea
