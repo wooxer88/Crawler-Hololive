@@ -1,0 +1,652 @@
+{
+  "data": {
+    "ときのそら": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1455156713678860288/c0ntVQW9_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQO9Vyz7ysAwPSio5xvkw6n0xvlyDu7A9eawqIH3w=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n2017年9月7日より活動を開始、ホロライブプロダクション初のバーチャルアイドル。歌とホラーゲームが大好きで、活動当初からの夢は「横浜アリーナでライブをすること」。\r\n2019年3月にビクターエンタテインメントからメジャーデビュー。一人前のアイドルを目指すために、女優としてTVドラマ『四月一日さん家の』に出演したり、ラジオ『そらあおと！』ではMCを務めるなど、\r\n様々なジャンルでアクティブに活動中。2019年10月6日にはときのそら初の単独ライブ「Dream!」を開催、自身の夢に一歩近づいた。\n",
+      "slogan": "そらとものみんなー！元気ー？ときのそらです！",
+      "url": {
+        "twitter": "https://twitter.com/tokino_sora",
+        "youtube": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg"
+      }
+    },
+    "ロボ子さん": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1477268207283372033/ahVTrrTw_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLTVWKjrovP0tGtguup9TYZicykceA45olVmEr2kvQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nはろ～ぼ～！！高性能といえばこのボク！ホロライブ所属のロボットVtuberロボ子だよ～！ 記憶を失ってとある荒野に現れたロボット。\r\n自称【高性能】だが、噂では【ポンコツ】が正しいのではといわれている模様…ｗ 人間らしい感情をもった歌声が特徴でゲームも大好きな女の子！\r\n本当にロボットなのだろうか…？あ、腕が外れたみたいだ。\n",
+      "slogan": "「はろーぼー！ロボ子だよー」",
+      "url": {
+        "twitter": "https://twitter.com/robocosan",
+        "youtube": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g"
+      }
+    },
+    "夜空メル": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1462094703655104523/NXZQCwiR_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLS8pa1lDGBL7tieftDRgPjVsSexeMJ9YURgBTXDMg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nバンパイアの女の子。バンパイアなのに血は苦手で、アセロラジュースが大好き。\n",
+      "slogan": "こんかぷー！魔界の天才ヴァンパイア夜空メルだよ！",
+      "url": {
+        "twitter": "https://twitter.com/yozoramel",
+        "youtube": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw"
+      }
+    },
+    "アキ・ローゼンタール": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1469288733195202563/N14aSlV3_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLT4XEPRFwXpb4gZ1qco_xCOt7ems7SrUsGOkmXX=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n異世界から来た女子高生。好奇心旺盛であり、色々なことに積極的に手を出していく。彼女のトレードマークであるツインテールは不思議な力で浮いている。\n",
+      "slogan": "「アローナ！癒し系ハーフエルフお姉さん、アキロゼと一緒に乾杯しよ？」",
+      "url": {
+        "twitter": "https://twitter.com/akirosenthal",
+        "youtube": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA"
+      }
+    },
+    "赤井はあと": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1476931190787432456/9j1z4X3c_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/rNj6bichsOoUjA2N9iXWxInEt9Y2Fo5fhG4S8oR17ip8ouCu_7wmX3PnQxt6OP6Rd9OlYXYcmw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n生意気な後輩。普段はツンツンしているが仲良くなった相手には甘えたりする。赤いリボンとハートが好きで、髪や服によくつけている。\n",
+      "slogan": "「こんるーじゅ！赤井はあとよ！」",
+      "url": {
+        "twitter": "https://twitter.com/akaihaato",
+        "youtube": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg"
+      }
+    },
+    "白上フブキ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1480419560197361672/UZKTC0yw_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQmM8F8S-7GTcF5Lw7fBALF8FQC9yNKTb_nFHev2w=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n白髪ケモミミなオタク狐。人と話すことが好きで構ってもらえると喜ぶ。\r\n　毎日楽しく過ごしながらトップオタクアイドルを目指している。\n",
+      "slogan": "「こんこんきーつね！白上フブキです！」",
+      "url": {
+        "twitter": "https://twitter.com/shirakamifubuki",
+        "youtube": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg"
+      }
+    },
+    "夏色まつり": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1446412533410107397/c54FWpyp_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQCXDfJbZoEZ-gtUiF4nSaGU8-qiq--BSTd92Sw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nチア部の新入生。明るく元気で人懐っこい性格であり誰とでもすぐに仲良くなれて、友達も多い。祭りやイベントなど楽しいことが好き。\n",
+      "slogan": "「わっしょ～い！ホロライブの清楚担当みんなのアイドル夏色まつりです！」",
+      "url": {
+        "twitter": "https://twitter.com/natsuiromatsuri",
+        "youtube": "https://youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg"
+      }
+    },
+    "湊あくあ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1439902455911759877/2sX3zhd0_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLTbU5ET3bgn0Iuz1jUBNjgSe9EW8kLxIhDUrtJlPw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nマリンメイド服のバーチャルメイド。本人は頑張っているがおっちょこちょいでドジっ子。\n",
+      "slogan": "「皆さんどうもこんあくあ～！バーチャルアイドル ゲーマー猫耳メイドの湊あくあで～す！！」",
+      "url": {
+        "twitter": "https://twitter.com/minatoaqua",
+        "youtube": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg"
+      }
+    },
+    "紫咲シオン": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1385950226314186755/mm3BHHDR_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/AyUL9W0ltc_aJr_MysuZBx8hRfb1SIVNREgU9kiOO-lqmdhYkEsllmhagertVIwHwa3UAAKy=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n魔界学校に出没する子供・・・ではなく本人曰く大人（らしい）。自称名門の出身で黒魔術を得意としている（らしい）\r\nあまり「こんしお」とは言わない。\n",
+      "slogan": "「こんしお～、紫咲シオンだよ」",
+      "url": {
+        "twitter": "https://twitter.com/murasakishionch",
+        "youtube": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw"
+      }
+    },
+    "百鬼あやめ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1444344539515260933/zljUjuJO_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/XDGhKwPZcT16Ppg2gQmLHEIYRhw9sY4rqG0HWbeCH68LHkhlVQrrFgxd5hWUuMb2nLfDOhu6=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n魔界学校所属の和装鬼娘。いたずら好きで、よく鬼火を飛ばして他人をからかって遊んでいる。こう見えて実は生徒会長。\n",
+      "slogan": "「人間様たちこんなきりー！やほ～～！」",
+      "url": {
+        "twitter": "https://twitter.com/nakiriayame",
+        "youtube": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg"
+      }
+    },
+    "癒月ちょこ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1477163753850683399/MMAxlixK_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQn_VxZ1ApMgQahrkcTtSdSAr6Jpxi4eHQiMnIlsw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n魔界学校の保健医。校内の男女からの人気は高く、特に男子からの診察依頼が絶えないという。お菓子が好きで、机の上にお菓子の袋が散乱しているのが目撃されては怒られている。\n",
+      "slogan": "「Good evening!my cute students.ちょっこーん！」",
+      "url": {
+        "twitter": "https://twitter.com/yuzukichococh",
+        "youtube": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg"
+      }
+    },
+    "大空スバル": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1454837982176096256/QYTVgu8E_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLTf1BZdgOX5oC0SB-B_Uq16OlomzqRH81ADPPlPcA=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n総合格闘技部とe-sports部のマネージャーをしている。男勝りな性格で、誰とも分け隔てなく接する、明るく元気で活発な子。ゲームは絶賛練習中。\r\n今日も元気にマネージャー！！！！！！！！！！！\n",
+      "slogan": "「ちわーす！ホロライブ2期生大空スバルっス！！」",
+      "url": {
+        "twitter": "https://twitter.com/oozorasubaru",
+        "youtube": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA"
+      }
+    },
+    "AZKi": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1396267467232534530/g9hbbZFI_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQQhnWKHLOLxjnXksGHHC8bnVS2UniL8Od6JTEPWQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n時間や場所、空間を飛び越えて出会う輝いた才能と一緒に、新しい世界を創るために転生した仮想世界の伴走する歌姫\r\n©加速サトウ\n",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/AZKi_VDiVA",
+        "youtube": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw"
+      }
+    },
+    "大神ミオ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1473239443767459847/eBPtOj2N_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLRP0h31urAKtYcu_j1foVuGyPU65_Y-VNBqLgHB5Q=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nどこからともなく現れた黒髪のケモミミ少女。神社によく出没するらしい。ゲームが大好き。\n",
+      "slogan": "「こんばんみぉーん！大神ミオだよ～！」",
+      "url": {
+        "twitter": "https://twitter.com/ookamimio",
+        "youtube": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg"
+      }
+    },
+    "さくらみこ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1478580414201892867/ZKySjSYk_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQlZnbXr-RooUQezemDKu7alJrZcEMy8_5P07ILug=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n電脳桜神社の巫女として真面目に神事をこなしてきたが、神にお使いを頼まれ日本に訪れた際。（お使いをこなしていくうち、）「ときのそら」に出会い、憧れを抱きバーチャル巫女アイドルになることを決意し、日々奮闘中！\r\n「エリート」と自称しているが、ファンの間では「ポンコツ」という噂も・・・｡\n\n",
+      "slogan": "「にゃっはろ～！ホロライブ所属のエリート巫女アイドルさくらみこですっ！」",
+      "url": {
+        "twitter": "https://twitter.com/sakuramiko35",
+        "youtube": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA"
+      }
+    },
+    "猫又おかゆ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1473589428639924230/Ey1evx5w_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLT_TLZsRHyNXj_3v1QIfF5Z1LOEIKQPL_7HGH29=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nおにぎり屋さんを経営してるおばあさんに飼われてる猫。おばあちゃんの部屋にあるPCから配信している。\n",
+      "slogan": "「もぐもぐ～おかゆ～！」",
+      "url": {
+        "twitter": "https://twitter.com/nekomataokayu",
+        "youtube": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw"
+      }
+    },
+    "戌神ころね": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1477023893651345410/rNykPea7_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLSegxVNNn4QGDwO-jO89ZDcYLSyPUQS3a4KU6QPCw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n都会にあるパン屋さんにいる犬。店番をしながら空いた時間にゲームをしている。\n",
+      "slogan": "「ぉぁよ～！ゆびゆび～」",
+      "url": {
+        "twitter": "https://twitter.com/inugamikorone",
+        "youtube": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q"
+      }
+    },
+    "星街すいせい": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1429100173351788549/nK13pWFz_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLSAm13gTESsu39zgJ1TYb649BiGqYa_XCv5C6Lu=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n歌とアイドルをこよなく愛する永遠の18歳のアイドルVTuber。\r\nいつか武道館でライブをすることを夢見て活動している。\n",
+      "slogan": "「彗星の如く現れたスターの原石！アイドルVTuberの星街すいせいです！」",
+      "url": {
+        "twitter": "https://twitter.com/suisei_hosimati",
+        "youtube": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A"
+      }
+    },
+    "兎田ぺこら": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1417395387527098371/sp6Dzzep_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLSmHTeNNQp8A4AwsUPKzBa2ubDBWe6RSaG39mAYTw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n寂しがり屋なうさ耳の女の子。にんじんをこよなく愛し、いつでも食べられるように持ち歩いている。\n",
+      "slogan": "「こんぺこ！こんぺこ！こんぺこー！兎田ぺこらぺこ～！どうも〜どうも〜」",
+      "url": {
+        "twitter": "https://twitter.com/usadapekora",
+        "youtube": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ"
+      }
+    },
+    "潤羽るしあ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1460769976399560705/2IBmQVu8_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLR1en3cN55loPrFL1C5K19o5xGhcKkmr0noD4cO=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n人前に出ることが苦手な魔界学校に所属のネクロマンサー(死霊使い)の少女。\r\nひとりぼっちが嫌なので死霊や屍とおしゃべりをしている。\n",
+      "slogan": "「こんるし～潤羽るしあなのです！」",
+      "url": {
+        "twitter": "https://twitter.com/uruharushia",
+        "youtube": "https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ"
+      }
+    },
+    "不知火フレア": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1459447923646042112/0UXz73jg_400x400.png",
+        "youtube": "https://yt3.ggpht.com/d9aIrGtZR0eI4k1Wnev5f_R4llIBsWnQOjkdsqkMycoAxA3g_zz-jyeBl8tEHfbm1iTg0SJj=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n人間とエルフのハーフエルフだよ！ 普段は適当～に楽しくやってるよ！君の力になりたいから困った時はいつでも頼ってね！ 情熱く涙もろい、褒められると嬉しいけど照れちゃうじゃん！へへへ！よろしくね！\r\n ※いつも近くにいる妖精の名前は「きんつば」",
+      "slogan": "「こんぬいー！ホロライブ三期生の不知火フレアだよ！」",
+      "url": {
+        "twitter": "https://twitter.com/shiranuiflare",
+        "youtube": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg"
+      }
+    },
+    "白銀ノエル": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1480501258863915008/scnAXkaJ_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLS1MTrG3Gn7-Vf_rVNAZ2Ou8KrmUGUXO6TmkLxe=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nおっとりしているが、なんでも筋力でどうにかする物騒な面を持つ ゆるふわ脳筋女騎士。強さに憧れるあまり、つよつよな人達が集まるVTuber界に武者修行にきた。\n",
+      "slogan": "「こんまっする～！鉄の胃袋大魔神！ 白銀聖騎士団の団長、白銀ノエルです！」",
+      "url": {
+        "twitter": "https://twitter.com/shiroganenoel",
+        "youtube": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ"
+      }
+    },
+    "宝鐘マリン": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1444628572044345348/cmZBTTnO_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLRFcdtwPHqI4573geBEyNL5h93BxtH5cMy_aL4zUw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n宝石、宝、お金が大好きで、海賊になって宝を探すのが夢。海賊船を買うのが目標で今は陸でVTuberをしている。\r\n（ようするには今はただの海賊コスプレ女）お姉さん風にふるまい、小悪魔的に誘惑したりからかったりしてくる。\r\n小悪魔的エロティックな魅力を持つ色気のある女上司。しかも若い！（大体17歳）\r\n海賊の衣装は実はコスプレだが、コスプレイヤーだと思うとそれはそれでエ◯チ。\n\n",
+      "slogan": "「Ahoy!宝鐘海賊団船長！宝鐘マリンです～！」「ヨーソロー」",
+      "url": {
+        "twitter": "https://twitter.com/houshoumarine",
+        "youtube": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg"
+      }
+    },
+    "天音かなた": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1475125593511710726/A65q3b_h_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/TlH8nz5O9UYo5JZ_5fo4JfXdT18N0Ck27wWrulni-c1g5bwes0tVmFiSKICzI1SW7itaTkk9GA=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n天界学園に通う天使。人を癒すための研究をしている。恥ずかしがりやな性格を隠すために、クールを装おうとする。\n",
+      "slogan": "「へい！みんなこんかなた～！」",
+      "url": {
+        "twitter": "https://twitter.com/amanekanatach",
+        "youtube": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg"
+      }
+    },
+    "角巻わため": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1476453019533594628/nlicH7B5_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLRWpyqOZzCmuSfmKGNo8TD2L_IRUYSw1wyhHXw-=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n歌が好きで歌動画をあげたり、毎週「わためぇ Night Fever!!」という歌枠を続けたりしていく内に、いつか武道館に立ちたいという目標が生まれた。 わための十八番「つのまきじゃんけん」も要チェックだ！\n",
+      "slogan": "「こんばんドドド～！」「わためは悪くないよねぇ？」",
+      "url": {
+        "twitter": "https://twitter.com/tsunomakiwatame",
+        "youtube": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA"
+      }
+    },
+    "常闇トワ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1449241511497846790/KkMdaDRz_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/meRnxbRUm5yPSwq8Q5QpI5maFApm5QTGQV_LGblQFsoO0yAV4LI-nSZ70GYwMZ_tbfSa_O8MTCU=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n1人前の悪魔になる為の社会勉強として人間界にやってきた小悪魔。本来勉強をしなきゃいけないところ、ゲームに出会ってしまい、夢中になる。配信という人間達とのコミュニケーションツールを見つけそこで勉強を試みる。\n",
+      "slogan": "「こんやっぴ～！」",
+      "url": {
+        "twitter": "https://twitter.com/tokoyamitowa",
+        "youtube": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw"
+      }
+    },
+    "姫森ルーナ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1480404182633160705/2XTP6ggT_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/NO1qIX3-Yhi98ybSk3x12e6bQ1ofM_35jMz5PvDUkweCFm-2hDIszg_SPDXCGlhf6VxKOzd7Sw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nお菓子の国のお姫様。\r\n甘えんぼで人懐っこいがわがままを言ってたびたび執事に怒られている。\r\n月のアクセは、異世界の国のマークらしい？\n",
+      "slogan": "「みんな～、おる～？」",
+      "url": {
+        "twitter": "https://twitter.com/himemoriluna",
+        "youtube": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw"
+      }
+    },
+    "雪花ラミィ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1480497993837330437/R3L2kRfq_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQDR06gp26jxNNXh88Hhv1o-pNrnlKrYruqUIOx=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nホロライブ5期生ブルー担当、雪花ラミィ\r\n人里離れた白銀の大地に住む、雪の一族の令嬢。\r\nホロライブの笑顔や彩りあふれる配信に心を打たれ、\r\nお供のだいふくと共に家を飛び出した。\r\n真面目だが世間知らずで抜けたところがある。\n",
+      "slogan": "「おはらみです、こんらみです」",
+      "url": {
+        "twitter": "https://twitter.com/yukihanalamy",
+        "youtube": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw"
+      }
+    },
+    "桃鈴ねね": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1443800020315099140/wyOyldPU_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/bMBMxmB1YVDVazU-8KbB6JZqUHn4YzmFiQRWwEUHCeqm5REPW7HHQChC5xE6e36aqqnXgK4a=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nアイドルにあこがれて、異世界からやってきた女の子。\r\n歌って踊ることとお絵描きが大好き。\r\nたくさんの人に愛される存在になるべく、日々特訓中。\n",
+      "slogan": "「こんねね～！ホロライブ5期生オレンジ担当、 アイドルVtuberの桃鈴ねねで～す！」",
+      "url": {
+        "twitter": "https://twitter.com/momosuzunene",
+        "youtube": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA"
+      }
+    },
+    "獅白ぼたん": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1473239135628718080/aFtef9ci_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQXr6MeUpHI0-yNZIAaGXHvBVowhCWMwGx-zXYs=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n見た目とは裏腹にぐうたらした性格のホワイトライオン。\r\n基本めんどくさがり屋だが、一度決めた事はやり通す誠実な一面もある。\r\n好きな言葉は「採算度外視」。ギャングタウンちほー出身、ゲームプレイはわりと効率中。強力な回復アイテムは最後まで残すタイプ。\n",
+      "slogan": "「ららーいおん♪」「ほならな～」",
+      "url": {
+        "twitter": "https://twitter.com/shishirobotan",
+        "youtube": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA"
+      }
+    },
+    "尾丸ポルカ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1465301638571524096/2mOcF_4x_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQI_iYxOpfP8bJklQ_VnS4a9jdrwRRlre_JP1Yp=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nVTuber界の座長となるべくホロライブに降り立ったサーカス団の団員。\r\n曲芸で人を楽しませるのが好きで、やるとなればやるっきゃない！の精神の持ち主。\r\n時々出るボロは、持ち前の愛嬌でごまかす。\n",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/omarupolka",
+        "youtube": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA"
+      }
+    },
+    "ラプラス・ダークネス": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1474622309143298055/zKdbz5ic_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/roGS60A8a_lDbVakIg1JU3u3hbtjHSTilMGHMizuPKh7tuoY2nl46raxuW2f_83IKFGMjL6Z=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n【秘密結社holoX】を設立した総帥。\r\n本来頭も良く、力も膨大だが、今は力の大半が封印されている。枷のせいで力の大半が封印されていることは本人も薄々感じているが、いつからかけられたのかよく覚えていない。\r\n側にいるカラスとは長い付き合い。",
+      "slogan": "貴様ら、刮目せよ！！",
+      "url": {
+        "twitter": "https://twitter.com/LaplusDarknesss",
+        "youtube": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw"
+      }
+    },
+    "鷹嶺ルイ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1464587960100474880/g648S7Zk_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/KO_kRAeAQ4C4M5xJDFOFHZ79ycCRfMxttefXIDFurZE2fsVPnmlHkMdM5zjEsUTH1i97xnxKNw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n【秘密結社holoX】の女幹部。\r\n総帥にできない交渉を担当しており、実質「組織の司令塔」。一見クールに見えるが仲間思いで面倒見が良いお姉さん。\r\nしかし、大事な所でミスをするポンコツ。",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/takanelui",
+        "youtube": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g"
+      }
+    },
+    "博衣こより": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1473580421632106498/B2e_6u9B_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/DNC5rGjlwA4Ae7rhpPmkv_QdjJPl8AfpQT9NcXTLvPbbriL-Y0Ni-gYfFH8uoiF6Ay1EP9VnZAk=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n【秘密結社holoX】の研究者。\r\nメンバーの面倒を見ながら、人間観察も行っている。研究熱心、好奇心旺盛で、他人のリアクション見たさから、つい悪戯をしてしまうことも。自称「holoXの頭脳」。\r\nしかし、その知識には偏りがあるようだ。",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/hakuikoyori",
+        "youtube": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw"
+      }
+    },
+    "沙花叉クロヱ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1465357823525933056/LOzP1kx1_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/_xNtPLKQcQxMTnOr4tAcGz0GEeESsi0bQX9mJEP3fx_50a8GUfUyOG1eyLIld2cCz6GvKABwpQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n【秘密結社holoX】の掃除屋でholoXのインターン生。\r\n冷静沈着で淡々と組織からの依頼をこなす。音楽が好きで、よく音楽を聴いている。\r\n本人は否定しているが、ツンデレに見られるらしい。",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/sakamatachloe",
+        "youtube": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw"
+      }
+    },
+    "風真いろは": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1465702273305427968/Jfq79-Lk_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/YK_UCAbw_pFBHSOw_LGWI-WCJDdvMP3y9mmODQ1IFEnNVvcf-M3-q22Db5TLWuAbfboMNFTMIg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n【秘密結社holoX】の用心棒。\r\n山奥の田舎で生活していたが、外の世界に憧れてお供と共に面白い事を求めて武者修行の旅を始めた。\r\n今は日銭を稼ぎながら【秘密結社holoX】の用心棒として雇われている。",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/kazamairohach",
+        "youtube": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ"
+      }
+    },
+    "アユンダ・リス": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1480455880197828609/qcrUBk2o_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLTjqfaFS9JlspGjiIah2kkxOtl4vRrxBCYKMEY5Kw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n魔法の森からやってきたリスの女の子。\r\n人間の世界で迷子になっていたが、とある事情があって優しいお姉さんの家に住むことになる。\r\nその恩返しをするためVtuberになることにした。\r\n振る舞いはリスそのもの。人見知りだが、いたずらが好きで視聴者をからかったりする。笑い声も特徴的。",
+      "slogan": "こんちわ、みなさ～ん！ぷるぷる～がんばり～リス！",
+      "url": {
+        "twitter": "https://twitter.com/ayunda_risu",
+        "youtube": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw"
+      }
+    },
+    "ムーナ・ホシノヴァ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1476961692995112963/gWfzVo_j_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLRaHP1Qoi3zFxbQYdbX4MNnV18TrqjFBwDxgTlNqg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n満月のように明るく、銀河のように美しい！ホロライブIDのムーナ・ホシノヴァだよ！\r\nモデル兼アイドルの大学生。バーチャル世界に興味を持ち、Vtuberになった。落ち着いているように見えるが実はホラーが苦手。\r\nムーナの配信に、稀に別人格「ホシノヴァ」が現れ、お姉さんボイスを披露する。ムーナの配信から目を離すな！",
+      "slogan": "「ムーンムーンムーナフィックだよ！」",
+      "url": {
+        "twitter": "https://twitter.com/moonahoshinova",
+        "youtube": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg"
+      }
+    },
+    "アイラニ・イオフィフティーン": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1477117168835694600/Y8d7wvNR_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQNhNLAE1ECJuVKg9sO7PpiRd2g-kaq6VWB6Q69=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n絵を描くのが大好きで、家出して地球に来た宇宙人のお姫様。。\r\n地球の文化が好きすぎて、地球の大学のビジュアル・コミュニケーション・デザイン学科に入学した。\r\nたまに視聴者をからかったり、ママになってあげたりする。時々ガチャで我を忘れる。",
+      "slogan": "「IOFORIA~! OBISA!」「スラマッパギ！あなたの愛しの宇宙人、ホロライブIDのイオフィだよ！」",
+      "url": {
+        "twitter": "https://twitter.com/airaniiofifteen",
+        "youtube": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg"
+      }
+    },
+    "クレイジー・オリー": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1478252725603209221/Vxyzxc5s_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/jWxru6sHDDSuKF-gztFg_WSoMp2da_d019iH0xz0MDWc7TIhetK8id_mVKV0PxWKp-QS23AzfQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nお墓から出てきたゾンビ女子高生。\r\n生前の記憶を頼りに家に帰ったが知らないラーメン屋になっていた。\r\n彼女はラーメン屋になってしまった家を取り戻すために、VTuberになることを決めた。\r\n大声を出しがちなので、配信を見る時は音量を下げてください。",
+      "slogan": "「ゾンばんは！スーパかわいいゾンビアイドル、クククククレイジー・オリーです！！」",
+      "url": {
+        "twitter": "https://twitter.com/kureijiollie",
+        "youtube": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ"
+      }
+    },
+    "アーニャ・メルフィッサ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1377734310677999620/PEvZEVYV_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLR0AplPQyxSjGhqMxJy7vAvXn-9hyaiXBoBE5vy=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n「クリス」として知られている古代武器だった彼女は、主人の神秘的な儀式によって、人間の身体を与えられた。\r\n彼女はほとんど寝ているかゲームをしている。\r\n長い間一人で生活をしていた為、人にあまり懐かない。\r\n興味のないことや人に対して反応が薄くなるが、好きなことについて話すときは、とても子供っぽく熱心になる。\r\n基本的に無感情で、人間には特に興味がないです。見た目で判断しないでください！愚かな人間どもはいつも見た目で判断しますよね",
+      "slogan": "「おはよー！ホロライブID２期生のアーニャ・メルフィッサです」",
+      "url": {
+        "twitter": "https://twitter.com/anyamelfissa",
+        "youtube": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg/featured"
+      }
+    },
+    "パヴォリア・レイネ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1477232255625883651/lNXVRMkP_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/sG7Yb1kCxTEP9ft03E-1Tr2Rho8GhMZ0_Kq9rf5MojWY9pf8vSL24xPG8e8GaE4jOxQKYlSvaL0=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n孔雀のお嬢様。\r\n魔法アカデミーで魔法を勉強していたが、事故に巻き込まれてしまい、人間の世界に転移。\r\nその時に魔法はほとんど使えなくなってしまった。\r\n甘いものに目がなくて、辛すぎるものは苦手。一見すると優雅に見えるが、一緒に過ごすと実はポンコツな一面を持つことが分かる。笑い声がエンジンの始動音に似ていると視聴者の間では評判。",
+      "slogan": "「注目！風舞う孔雀の乙女、ホロライブIDのパヴォリア・レイネです！」",
+      "url": {
+        "twitter": "https://twitter.com/pavoliareine",
+        "youtube": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q"
+      }
+    },
+    "森カリオペ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1365548729437097989/NFwaOzI3_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQi2hR9UdCcWoDLz4sJYqAu9BkaYBGWex_th5ic=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nグリム・リーパーの第一弟子。医療が発達している現代においては、死神として活躍する場面がなく、その代わりにVTuber活動で他人のソウルを収穫するつもりらしい。尊死している人のソウルも彼女の元へ行く模様。\r\n結局のところ、発言内容や声のイメージと違って、彼女は実は面倒見がよく、優しい心の持ち主である。",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/moricalliope",
+        "youtube": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg"
+      }
+    },
+    "小鳥遊キアラ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1473468131180003329/7Nvwer5P_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nファストフードチェーンの店主になりたいアイドル。不死鳥であり、ニワトリや七面鳥ではない。（重要）\r\n彼女は命を削りながらすごく頑張って働いている、どうせ死んでも灰から蘇られるから。",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/takanashikiara",
+        "youtube": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww"
+      }
+    },
+    "一伊那尓栖": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1473599637751693314/k_ZTGRX4_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLRFAFjEvIwiZ_MrQvdY8-QbJkqvahsi3La78Jf7=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nこう見えても古き神の司祭である。ある日「変な本」を拾ってから触手を操れるようになった。彼女にとって触手は日常生活の一部であり、とくに何も思わない。でも、おしゃれはしてあげたい乙女心。\r\n力を得て以来、古き声から囁きや天啓を受け、無垢でごく普通な彼女はVTuber活動を通して人々のSAN値を削っている模様。",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/ninomaeinanis",
+        "youtube": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg"
+      }
+    },
+    "がうる・ぐら": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1309957523089354760/uRrxAmOB_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n「海底つまらんすぎてワロタ」って言いながら地上にやってきたアトランティスの末裔。\r\n彼女がお気に入りで着ている服は（サメの被りモノも含めて）日本で買った。本人曰く暇な時は海洋生物と会話するのが好き。",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/gawrgura",
+        "youtube": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g"
+      }
+    },
+    "ワトソン・アメリア": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1318958836120649728/7JHxy2UO_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLTvS-8gomaJywaEKp3hnCmY92vQ9uKpy8rMAx3a=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\nネットで喋るキツネとか魔法リスとか超人ワンコとか、色々ホロライブにまつわる変な噂を耳にし、気になって調査に出向いたところ、彼女自身もアイドルになりたくなった。\r\n暇つぶしに反射神経を鍛えられるFPSやパズルゲーなどを好んでやっている。「初歩的なことなんでしょう？」",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/watsonameliaEN",
+        "youtube": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg"
+      }
+    },
+    "アイリス": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1476619207484014592/j1H83TgG_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/UwxlX1PuB_RwJyEUW_ofbBR6saY8n5_p8A9_1bY65zygFrfqIb1GM8dIK33EJboDDnRVyw=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n遥か太古、かの楽園に希望をもたらした悪魔と天使のハーフ、「ネフィリム」とも呼ばれている、IRyS。本名を██アイリス。絶望にまみれた現世は彼女を2回目の目覚めへと誘った（いざなった）。そして彼女は希望を世間に届けたいと再び歌に想いを乗せる。\r\n基本はハーフ状態を保っているが、種族としてはまだ幼いがため、感情や「他の要素」によってどちらかに傾く可能性がある。それによって容姿も少し変わるらしい。\r\n彼女は2回目の目覚めより以前のことはあまり語りたがらない。それは彼女は「希望の化身」ゆえに前向きな姿勢を示しているのか、それともーー。\r\n「人々の助けになるのは未来ではない。未来は自分の手で作るもの。\r\n救いも余計なお世話。救われるなら頑張る気にはならない。\r\n絶望の深淵から見える僅かな光、立ち直れる暖かさ。\r\nーー希望さえあれば、生きようと、頑張ろうと思える。」",
+      "slogan": "",
+      "url": {
+        "twitter": "https://twitter.com/irys_en",
+        "youtube": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g"
+      }
+    },
+    "九十九佐命": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1472480689039691778/ph80p2U9_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/t1XymJVoo8trXNJ1PeHTzaROF5wqlBYigFoYzw0HEthLahxAXjpqBi6c5ttOp9kWkYCkspivEg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n「議会」の一角であり、神々より作られし最初の概念「空間」の代弁者にあたる。\r\n現世に顕現してからとある理由で占星術を研究しはじめ、神秘の禁忌に無自覚に触れてしまい、古き神の使徒に。\n\r\n「空間」とは、宇宙だけでなく、次元、物理などの概念を指す。それは果て無き概念であり、いまだ永遠に成長している概念である。未解明のことも多いため、その権現である彼女は一件意味不明なことばかりをしたり、話したりするが、本人曰く「それは人類の理解にはまだ早いだけである。」また彼女の見た目と違ってまだ......こど、、、若い。\n",
+      "slogan": "Speaker of \"Space”",
+      "url": {
+        "twitter": "https://twitter.com/tsukumosana",
+        "youtube": "https://www.youtube.com/channel/UCsUj0dszADCGbF3gNrQEuSQ"
+      }
+    },
+    "セレス・ファウナ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1444772123965149187/sK0W2jxO_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/1rUoSkwh5LJbR8ez3-l02cdoOIKt9IlhKJxkBTqoff2qZb-VV3wUTFpkE2cNDQnOjk8wR-TW=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n「議会」の一角であり、神々より作られし二番目の概念「自然」の番人にあたる。\r\n彼女は自然を守るべく「ドルイド」として顕現した。彼女には麒麟の血が流れており、従えてもいる。その角はとある樹の枝そのものであり、決して鹿の類ではない。\n\r\n「自然」とは、星の人類以外全ての有機物を指す。母なる自然である彼女の囁きには癒し効果があると語り伝えられている。その真偽は体験した者のみぞ知る。しかし、母なる自然である彼女は普段とても穏やかで少しおちゃめなところもあるが、、彼女に逆らうものは自然の恐ろしさを知ることになるのであろう。",
+      "slogan": "Keeper of \"Nature\"",
+      "url": {
+        "twitter": "https://twitter.com/ceresfauna",
+        "youtube": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ"
+      }
+    },
+    "オーロ・クロニー": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1437225176270213120/bXQw0l3V_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/6670YE31bbAtAi7m_UL-KWZBdL5wvmfHlLtcS4HxsBZBQNqmAk7Y-iiIOjawO_0HYXpS4HfC=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n「議会」の一角であり、神々より作られし三番目の概念「時間」の典獄にあたる。\r\n在り方が人間によって一番歪められた概念である。刃を取り始めたのは無意識な行動ではあるが、本人もきっと喜んで動いている。「時間」から逃れられる人間はいない、ほとんど人間もまた彼女の牢獄からの解放を望まない。\n\r\n本来「時間」という概念の役割は歯車として、他の概念と連携を取るための存在であった。\r\nただある日、人間は日の出や日没に意味を与え、その発想は「時間」に刻まれた。それ以来「時間」は人間のみにしか認識できない概念となり、それを紡いだ罪として「時間」に囚われ始めた。然る後、彼女は生ある者を時の牢獄に捉えるためだけに動く獄吏と化した。無口でクールな性格は昔から変わってないが、今の彼女は加虐を嗜むようなプライド高き典獄である。",
+      "slogan": "Warden of \"Time\"",
+      "url": {
+        "twitter": "https://twitter.com/ourokronii",
+        "youtube": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg"
+      }
+    },
+    "七詩ムメイ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1475987345983770624/RS9RfNCE_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n「議会」の一角であり、人類の祟りより生まれし概念「文明」の守護者にあたる。\r\n彼女は非常に博識で、旅を好む熟練な旅人である。だが目の当たりにしたもの、伝え聞いたもの、身で体験したものがあまりにも多く、彼女自分自身の名前でさえ忘れ去られてしまった。彼女は他の議員とは異色な存在、人間の誕生や存在証明であり、それこそが他の生命体や概念との差である。\n\r\n「文明」とは、知恵を乞った生命体、人間が作りだしたものであり、人類が築き上げたものを指す。彼女自分は「神々」に作られた概念ではないがため、自ら今の姿を選び、人類が考えた賢明の代表動物である梟を見た目に取り組んでいる。彼女はとても優しく、賢い努力家。不思議ながら不憫で可憐な雰囲気が漂っている。\n\r\nーー長い年月の旅を一人でしていると彼女は多少寂しく感じていたそうだ。だから彼女は「文明」の中でも、人間にとっても役割がかなり重要な紙を選んで友達を作った。「ボロボロになっていても友達は友達･･･。」",
+      "slogan": "Guardian of \"Civilization\"",
+      "url": {
+        "twitter": "https://twitter.com/nanashimumei_en",
+        "youtube": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA"
+      }
+    },
+    "ハコス・ベールズ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1476778193281445889/w-eaHmiP_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/GWIwRbtVQ2TAlvH8Mf37FMpemTrwmUSbTSazp9Aul6KwdKQmvx7IbLZepDk0sp8ReW3qBhsU=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n「議会」の一角であり、世界より作られし概念「カオス」そのものにあたる。\r\n神々に命じられ、「議会」の議長をやっている。基本は放任主義である。議長を一任されたことに彼女も含めて誰一人納得してない。だが任命されたからには従うのみ。見た目がネズミだからと言って侮ってはいけない、何故ならばネズミは「カオス」の前触れだ。\n\r\n「カオス」とは混沌、運気もまたは自由の類である。彼女は爛漫と輝く笑顔の持ち主であり、縛られることはなく、気のままに走り回る永久機関。彼女は世界はルールだけでは成り立たないと彼女は思っている、ゆえに彼女は世の理を全てがぶっ壊しにきた。混乱を見るのが最大の愉しみだからと、ほとんどの場合は手を出さない。",
+      "slogan": "Chaos",
+      "url": {
+        "twitter": "https://twitter.com/hakosbaelz",
+        "youtube": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ"
+      }
+    },
+    "桐生ココ": {
+      "avatar": {
+        "twitter": "https://pbs.twimg.com/profile_images/1369675059896352769/rRp8PTCQ_400x400.jpg",
+        "youtube": "https://yt3.ggpht.com/ytc/AKedOLQUA2htopp_nUXZScvJvh17wlOhSvcjAc-L75meCg=s88-c-k-c0x00ffffff-no-rj"
+      },
+      "about": "\r\n人間の文化に興味を持ち、異世界から日本に語学留学中の子どものドラゴン。\r\n仁義と任侠を重んじる正義感あふれるドラゴンで、気合で人間の姿を保っている。\n",
+      "slogan": "「おーはようございまーす皆さーん！起きて起きて起きて―！」",
+      "url": {
+        "twitter": "https://twitter.com/kiryucoco",
+        "youtube": "https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w"
+      }
+    }
+  }
+}
